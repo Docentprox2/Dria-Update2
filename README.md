@@ -32,4 +32,5 @@ Dria yı çalıştırıyoruz
 ollama pull hellord/mxbai-embed-large-v1:f16
 
 ./dkn-compute-launcher -m=gemini-1.5-flash,llama3.1:latest
+
 Gemini api key isterse tekrar girelim.Digerlerini enter ile gecelim.
